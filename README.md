@@ -1,0 +1,1 @@
+Simple PyQt timer
